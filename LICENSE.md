@@ -1,4 +1,4 @@
-# 
+# VIP Visual Studio plugins pour Mac OS | Natif Visual Studio plugins pour PC Windows. Avec outils de base de données et coloration syntaxique — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
